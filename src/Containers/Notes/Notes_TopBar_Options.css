@@ -5,7 +5,7 @@
 	border: 2px solid rgba(0,0,0,0.25);
 }
 .Notes_Core_Notes{
-	height: 70vh;
+	height: 84vh;
 	float: right;
 	width: 83%;
 	border: 2px solid blue;
@@ -15,5 +15,5 @@
   width: 15%;
 }
 .Notes_Contain_Notes_And_Explorer {
-	height: 72vh;
+	height: 85vh;
 }

@@ -3,6 +3,7 @@
   margin: 0;
 }
 .sodrag{
+  position: absolute;
   -webkit-app-region: drag;
   width: 100%;
   height: 50px;
